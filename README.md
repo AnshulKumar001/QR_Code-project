@@ -1,1 +1,1 @@
-QR Code generator project
+#QR Code generator project
